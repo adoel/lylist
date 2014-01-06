@@ -12,7 +12,7 @@
 			         <a class="fa fa-arrow-left fa-2x" href="#"></a>
 			      </div>
 			      <div class="span-8">
-			         <h6 class="label title">Lie list</h6>
+			         <h6 class="label title">Ly list</h6>
 			         <p>Example Application</p>
 			      </div>
 			      <div class="span-2">
@@ -26,10 +26,10 @@
 			<div class="wrapper">
 				<form style="margin-top: 50px" id="add">
 					<div class="row title">
-					  <div class="span-10">
+					  <div class="span-11">
 					      <input class="label" type="text" placeholder="Input" value="adoel">
 					  </div>
-					  <div class="span-2">
+					  <div class="span-1">
 					      <input class="swipe" type="checkbox" checked />
 					  </div>
 					</div>
@@ -70,11 +70,11 @@
 						</div>
 					</div>
 					<div class="row">
-					  <div class="span-2">
-					     <label><i class="fa fa-edit">&nbsp; Note</i></label>
+					  <div class="span-1">
+					     <label><i class="fa fa-edit fa-2x"></i></label>
 					  </div>
-					  <div class="span-10">
-					     <textarea placeholder="textarea"></textarea>
+					  <div class="span-11">
+					     <textarea placeholder="note"></textarea>
 					  </div>
 					</div>
 					<input type="reset" value="Reset">
