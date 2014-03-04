@@ -194,7 +194,7 @@ em {
     transition: all .2s ease-in-out;
 }
  
-.accordion li:target > .sub-menu {
+.accordion >li:target > .sub-menu {
     max-height: 224px;
     min-height: 130px;
     overflow-y: scroll;

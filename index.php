@@ -45,42 +45,42 @@
 							<label for="checkbox_1_1" class="cek"></label>Shopping<span>8</span>
 						</a>
  				    	<ul class="sub-menu">
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_1" id="checkbox_1_1_1" />
 								<label for="checkbox_1_1_1" class="cek"></label>
  					        	Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_2" id="checkbox_1_1_2" />
 								<label for="checkbox_1_1_2" class="cek"></label>
  					        	Skydrive
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_3" id="checkbox_1_1_3" />
 								<label for="checkbox_1_1_3" class="cek"></label>
  					        	FTP Server
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_4" id="checkbox_1_1_4" />
 								<label for="checkbox_1_1_4" class="cek"></label>
  					        	Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_5" id="checkbox_1_1_5" />
 								<label for="checkbox_1_1_5" class="cek"></label>
  					        	Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_6" id="checkbox_1_1_6" />
 								<label for="checkbox_1_1_6" class="cek"></label>
  					        	Skydrive
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_7" id="checkbox_1_1_7" />
 								<label for="checkbox_1_1_7" class="cek"></label>
  					        	FTP Server
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_1_1_8" id="checkbox_1_1_8" />
 								<label for="checkbox_1_1_8" class="cek"></label>
  					        	Dropbox
@@ -93,22 +93,22 @@
 							<label for="checkbox_2_1" class="cek"></label>Works<span>8</span>
 				    	</a>
  				    	<ul class="sub-menu">
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_2_1_1" id="checkbox_2_1_1" />
 								<label for="checkbox_2_1_1" class="cek"></label>
 								Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_2_1_2" id="checkbox_2_1_2" />
 								<label for="checkbox_2_1_2" class="cek"></label>
  					        	Skydrive
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_2_1_3" id="checkbox_2_1_3" />
 								<label for="checkbox_2_1_3" class="cek"></label>
  					        	FTP Server
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_2_1_4" id="checkbox_2_1_4" />
 								<label for="checkbox_2_1_4" class="cek"></label>
  					        	Dropbox
@@ -127,42 +127,42 @@
 							<label for="checkbox_4_1" class="cek urgent"></label>adoel<span>8</span>
 				    	</a>
  				    	<ul class="sub-menu">
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_1" id="checkbox_4_1_1" />
 								<label for="checkbox_4_1_1" class="cek"></label>
 								Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_2" id="checkbox_4_1_2" />
 								<label for="checkbox_4_1_2" class="cek"></label>
  					        	Skydrive
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_3" id="checkbox_4_1_3" />
 								<label for="checkbox_4_1_3" class="cek"></label>
 								FTP Server
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_4" id="checkbox_4_1_4" />
 								<label for="checkbox_4_1_4" class="cek"></label>
 								Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_5" id="checkbox_4_1_5" />
 								<label for="checkbox_4_1_5" class="cek"></label>
 								Dropbox
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_6" id="checkbox_4_1_6" />
 								<label for="checkbox_4_1_6" class="cek"></label>
 								Skydrive
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_7" id="checkbox_4_1_7" />
 								<label for="checkbox_4_1_7" class="cek"></label>
 								FTP Server
  					        </a></li>
- 					        <li><a href="#">
+ 					        <li><a>
  					        	<input type="checkbox" name="checkbox_4_1_8" id="checkbox_4_1_8" />
 								<label for="checkbox_4_1_8" class="cek"></label>
 								Dropbox
